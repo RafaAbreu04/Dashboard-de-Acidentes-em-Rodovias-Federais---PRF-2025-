@@ -2,7 +2,7 @@
 
 > Meu primeiro projeto utilizando Power BI, desenvolvido com o objetivo de praticar ETL, modelagem de dados e criação de dashboards a partir de dados públicos.
 
-![Dashboard](Dashboard - AcidentesPRF2025)
+![Dashboard](./Dashboard%20-%20AcidentesPRF2025.jpg)
 
 ---
 
@@ -139,7 +139,7 @@ Pretendo continuar evoluindo este projeto adicionando:
 
 ### Visão geral
 
-![Dashboard](Dashboard - AcidentesPRF2025)
+![Dashboard](./Dashboard%20-%20AcidentesPRF2025.jpg)
 
 ---
 
@@ -164,4 +164,4 @@ Sou estudante e entusiasta da área de Análise de Dados e desenvolvo projetos p
 Caso tenha alguma sugestão de melhoria ou feedback, fique à vontade para entrar em contato.
 
 LinkedIn:
-([Rafaelly Abreu Galhardo](https://www.linkedin.com/in/rafaelly-abreu))
+[Rafaelly Abreu Galhardo](https://www.linkedin.com/in/rafaelly-abreu)
