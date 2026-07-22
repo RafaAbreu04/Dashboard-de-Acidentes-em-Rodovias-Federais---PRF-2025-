@@ -2,7 +2,7 @@
 
 > Meu primeiro projeto utilizando Power BI, desenvolvido com o objetivo de praticar ETL, modelagem de dados e criação de dashboards a partir de dados públicos.
 
-![Dashboard](Dashboard-Acidentes2025.jpg)
+![Dashboard](Dashboard - AcidentesPRF2025)
 
 ---
 
@@ -139,7 +139,7 @@ Pretendo continuar evoluindo este projeto adicionando:
 
 ### Visão geral
 
-![Dashboard](Dashboard-Acidentes2025.jpg)
+![Dashboard](Dashboard - AcidentesPRF2025)
 
 ---
 
